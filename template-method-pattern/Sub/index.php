@@ -1,7 +1,7 @@
 <?php
 
-use Acme\TurkeySub;
-use Acme\VeggieSub;
+use Acme\Sub\TurkeySub;
+use Acme\Sub\VeggieSub;
 
 require "vendor/autoload.php";
 

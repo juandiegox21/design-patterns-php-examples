@@ -1,8 +1,8 @@
 <?php
 
-namespace Acme;
+namespace Acme\CarService;
 
-class TireRotation implements CarServiceInterface
+class OilChange implements CarServiceInterface
 {
     protected CarServiceInterface $carService;
 
@@ -13,11 +13,11 @@ class TireRotation implements CarServiceInterface
 
     public function getCost()
     {
-        return 50 + $this->carService->getCost();
+        return 20 + $this->carService->getCost();
     }
 
     public function getDescription()
     {
-        return $this->carService->getDescription() . ', tire rotation';
+        return $this->carService->getDescription() . ', oil change';
     }
 }

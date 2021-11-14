@@ -2,9 +2,9 @@
 
 require 'vendor/autoload.php';
 
-use Acme\BasicInspection;
-use Acme\OilChange;
-use Acme\TireRotation;
+use Acme\CarService\BasicInspection;
+use Acme\CarService\OilChange;
+use Acme\CarService\TireRotation;
 
 // Basic Inspection
 $invoice = new BasicInspection();

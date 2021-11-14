@@ -1,6 +1,6 @@
 <?php
 
-namespace Acme;
+namespace Acme\CarService;
 
 class BasicInspection implements CarServiceInterface
 {

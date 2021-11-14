@@ -1,6 +1,6 @@
 <?php
 
-namespace Acme;
+namespace Acme\BookReader;
 
 interface eReaderInterface
 {
