@@ -1,4 +1,4 @@
-# 📃 Strategy Method Pattern example
+# ♟️ Strategy Method Pattern example
 
 There will be more examples in the future, for the purpose of practicing. Feel free to add your own example!
 
