@@ -11,7 +11,7 @@ There will be more examples in the future, for the purpose of practicing. Feel f
 git clone
 
 // go into one of the examples folder
-cd example-folder
+cd ExampleFolder
 
 // there are no dependencies, we are only using composer autoloader.
 composer dump-autoload
