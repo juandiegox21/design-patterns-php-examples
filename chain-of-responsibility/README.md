@@ -2,7 +2,7 @@
 
 There will be more examples in the future, for the purpose of practicing. Feel free to add your own example!
 
-![alt text](https://refactoring.guru/images/patterns/diagrams/chain-of-responsibility/solution1-en.png?id=dccad3e628bd2b8f1856)
+![alt text](https://i.imgur.com/RuS6HDv.png)
 
 # 🔧 Installation
 
